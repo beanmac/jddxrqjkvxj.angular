@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "shopping-cart-example-cd025": {
+      "hosting": {
+        "angular.io-example": [
+          "shopping-cart-example-cd025"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "shopping-cart-example-cd025"
+  }
+}
